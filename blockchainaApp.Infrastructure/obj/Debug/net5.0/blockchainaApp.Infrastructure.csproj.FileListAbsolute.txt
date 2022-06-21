@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\bin\Debug\net5.0\blockchainaApp.Infrastructure.deps.json
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\bin\Debug\net5.0\blockchainaApp.Infrastructure.dll
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\bin\Debug\net5.0\blockchainaApp.Infrastructure.pdb
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\bin\Debug\net5.0\blockchainaApp.Application.dll
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\bin\Debug\net5.0\blockchainaApp.Domain.dll
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\bin\Debug\net5.0\blockchainaApp.Application.pdb
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\bin\Debug\net5.0\blockchainaApp.Domain.pdb
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\obj\Debug\net5.0\blockchainaApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\obj\Debug\net5.0\blockchainaApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\obj\Debug\net5.0\blockchainaApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\obj\Debug\net5.0\blockchainaApp.Infrastructure.AssemblyInfo.cs
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\obj\Debug\net5.0\blockchainaApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\obj\Debug\net5.0\blockchainaApp.Infrastructure.csproj.CopyComplete
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\obj\Debug\net5.0\blockchainaApp.Infrastructure.dll
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\obj\Debug\net5.0\refint\blockchainaApp.Infrastructure.dll
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\obj\Debug\net5.0\blockchainaApp.Infrastructure.pdb
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Infrastructure\obj\Debug\net5.0\ref\blockchainaApp.Infrastructure.dll

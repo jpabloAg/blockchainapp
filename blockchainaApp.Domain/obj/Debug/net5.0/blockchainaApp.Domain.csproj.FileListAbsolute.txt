@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Domain\bin\Debug\net5.0\blockchainaApp.Domain.deps.json
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Domain\bin\Debug\net5.0\blockchainaApp.Domain.dll
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Domain\bin\Debug\net5.0\blockchainaApp.Domain.pdb
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Domain\obj\Debug\net5.0\blockchainaApp.Domain.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Domain\obj\Debug\net5.0\blockchainaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Domain\obj\Debug\net5.0\blockchainaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Domain\obj\Debug\net5.0\blockchainaApp.Domain.AssemblyInfo.cs
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Domain\obj\Debug\net5.0\blockchainaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Domain\obj\Debug\net5.0\blockchainaApp.Domain.dll
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Domain\obj\Debug\net5.0\refint\blockchainaApp.Domain.dll
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Domain\obj\Debug\net5.0\blockchainaApp.Domain.pdb
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Domain\obj\Debug\net5.0\ref\blockchainaApp.Domain.dll

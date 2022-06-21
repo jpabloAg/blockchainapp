@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\bin\Debug\net5.0\blockchainaApp.Application.deps.json
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\bin\Debug\net5.0\blockchainaApp.Application.dll
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\bin\Debug\net5.0\blockchainaApp.Application.pdb
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\bin\Debug\net5.0\blockchainaApp.Domain.dll
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\bin\Debug\net5.0\blockchainaApp.Domain.pdb
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\obj\Debug\net5.0\blockchainaApp.Application.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\obj\Debug\net5.0\blockchainaApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\obj\Debug\net5.0\blockchainaApp.Application.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\obj\Debug\net5.0\blockchainaApp.Application.AssemblyInfo.cs
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\obj\Debug\net5.0\blockchainaApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\obj\Debug\net5.0\blockchainaApp.Application.csproj.CopyComplete
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\obj\Debug\net5.0\blockchainaApp.Application.dll
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\obj\Debug\net5.0\refint\blockchainaApp.Application.dll
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\obj\Debug\net5.0\blockchainaApp.Application.pdb
+C:\Users\USER\Desktop\Semestre 2022-1\blockchain\blockchainaApp\blockchainaApp.Application\obj\Debug\net5.0\ref\blockchainaApp.Application.dll
